@@ -1,0 +1,46 @@
+.slider h3,
+.slider h5,
+.clients h3,
+.portfolio h3,
+.kontak h3{
+ 
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+.container h1{
+	text-align: center;
+	font-size: 70px;
+	color: black;
+
+}
+.parallax-container{
+	height: 55%;
+}
+
+/*membuat background di paralax hitam putih*/
+
+.parallax img{
+	filter: grayscale(1);
+	/*buat transparan*/
+	opacity: 0.5 !important;
+}
+
+section footer{
+	padding: 20px 0;
+}
+
+section{
+	padding: 20px 0;
+}
+
+.kontak ul{
+	margin-top: -15px;
+}
+
+.clients img{
+	max-width:150px;
+	filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.8);
+}
+
+
+
